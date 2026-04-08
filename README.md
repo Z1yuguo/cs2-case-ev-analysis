@@ -14,4 +14,4 @@ Expected value analysis of CS2 case openings using real-time price data.
 - Trade-Up: 61.9% return — worse than buying a knife directly
 
 ## Read the full analysis
-(link)
+[(link)](https://substack.com/home/post/p-193532682)
